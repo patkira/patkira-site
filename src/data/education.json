@@ -1,0 +1,30 @@
+[
+    {
+        "institution": "Victoria University of Wellington",
+        "country": "New Zealand",
+        "degree": "Master of Business Administration",
+        "startDate": "2013",
+        "endDate": "2015"
+    },
+    {
+        "institution": "ACG Yoobee School of Design",
+        "country": "New Zealand",
+        "degree": "Diploma in Web development",
+        "startDate": "2013",
+        "endDate": "2014"
+    },
+    {
+        "institution": "Victoria University of Wellington",
+        "country": "New Zealand",
+        "degree": "Bachelor of Architecture with Honours",
+        "startDate": "2005",
+        "endDate": "2009"
+    },
+    {
+        "institution": "Pennsylvania State University",
+        "country": "USA",
+        "degree": "Bachelor of Architecture Exchange Program",
+        "startDate": "2008",
+        "endDate": "2008"
+    }
+]

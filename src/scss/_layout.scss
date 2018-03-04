@@ -1,0 +1,77 @@
+.container {
+    display: grid;
+    grid-template-rows: auto;
+    @include breakpoint(tablet){
+        grid-template-columns: repeat(3, 1fr);
+    }
+    @include breakpoint(wide){
+        grid-template-columns: 350px repeat(4, 1fr);
+    }
+}
+
+.heading-container {
+    padding: 2rem 1rem;
+    background-color: $color-background;
+    @include breakpoint(tablet){
+        padding: 2.5rem 1rem;
+    }
+    @include breakpoint(wide){
+        padding: 2.5rem 1rem;
+    }
+}
+
+.content-container {
+    padding: 2rem 1rem;
+    @include breakpoint(tablet){
+        padding: 2.5rem 1rem;
+        grid-column: 2 / 5;
+    }
+    @include breakpoint(wide){
+        padding: 2.5rem 1rem;
+        grid-column: 2 / 7;
+    }
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.col-one .card {
+    @include breakpoint(tablet){
+        flex-basis: 100%;
+    }
+}
+
+.card {
+    margin-bottom: 1.2rem;
+    @include breakpoint(wide){
+        flex-basis: 50%;
+    }
+
+    &:last-of-type {
+        margin-bottom: 0;
+    }
+
+    h3 {
+        text-transform: none;
+        font-size: 1.6rem;
+        @include breakpoint(mobile){
+            font-size: 1.8rem;
+        }
+        @include breakpoint(wide){
+            font-size: 2rem;
+        }
+    }
+
+    .title-small {
+        font-size: 1.3rem;
+        @include breakpoint(mobile){
+            font-size: 1.5rem;
+        }
+        @include breakpoint(wide){
+            font-size: 1.7rem;
+        }
+    }
+}

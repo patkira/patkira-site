@@ -1,0 +1,24 @@
+{
+  "name": "website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv-keywords": "^3.1.0",
+    "classnames": "^2.2.5",
+    "node-sass": "^4.7.2",
+    "npm": "^5.7.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "npm run build-css && react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "build-css": "node-sass src/scss/ -o src/css/",
+    "watch-css": "npm run build-css && node-sass src/scss/ -o src/css/ --watch"
+  }
+}

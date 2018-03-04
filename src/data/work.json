@@ -1,0 +1,81 @@
+[
+    {
+        "title": "Developer",
+        "company": "Catalyst",
+        "location": "Sydney, Australia",
+        "startDate": "August 2017",
+        "endDate": "present",
+        "experience": [
+            "Upgraded clients' Moodle, Totara and Mahara intances as well as their plugins",
+            "Developed a custom plugin for client's Totara instance to send notifications to users",
+            "Responsible for development bespoke web application using Laravel and Vue",
+            "Troubleshoot and fix any issue reported by clients",
+            "Worked closely with project managers and clients to identify scope and solutions to ensure timely and costly progression of projects",
+            "Support graduate developer"
+        ]
+    },
+    {
+        "title": "Front end developer",
+        "company": "Catalyst",
+        "location": "Wellington, New Zealand",
+        "startDate": "March 2015",
+        "endDate": "June 2017",
+        "experience": [
+            "Ran HTML and CSS courses for clients and Open Source Academy students",
+            "Responsible for designing new interface, frontend and PHP development as well as writing unit and integration tests for Ad engine project called Nativform",
+            "Work on multiple e-learning, Mahara and Koha projects mostly focusing on front-end framework upgrade",
+            "Set up and work with style guides such as Patternlab as it is tool curate shared components for larger projects",
+            "Responsible for front end development of projects such as Te Papa (Drupal), Transpower (Drupal), Taranaki City Council (Silverstripe) websites using HTML5, CSS3, Sass, JavaScript, jQuery as well as cross-browsers, accessibility, responsive design with fluid grids",
+            "Implemented a componentised front-end architecture within the front end team to ensure maintainability and scalability",
+            "Established front-end development workflow using Gulp to compile Sass, manage JavaScript library and generating templates",
+            "Mentored and supported other front end developers",
+            "Worked closely with project manager and backend developer to identify scope and solutions to ensure timely and costly progression of projects",
+            "Collaborated with designers and user interface team to ensure the technical feasibility and accessibility",
+            "Worked with project managers to develop a process that would help tracking development, testing and bug fixing"
+        ]
+    },
+    {
+        "title": "Intern",
+        "company": "Catalyst",
+        "location": "Wellington, New Zealand",
+        "startDate": "November 2014",
+        "endDate": "February 2015",
+        "experience": [
+            "Implemented Bootstrapn CSS framework for Mahara (opensource e-portfolio web application)",
+            "Developed a static site for client",
+            "Implemented SASS mixin for icon sprite sheet supporting different screen resolutions"
+        ]
+    },
+    {
+        "title": "Designer/front end developer",
+        "company": "Onmark",
+        "location": "Wellington, New Zealand",
+        "startDate": "March 2014",
+        "endDate": "November 2014",
+        "experience": [
+            "Designed Onmark websites and collaterals",
+            "Managed clients’ web content using Wordpress",
+            "Tested websites before production deployment",
+            "Drafted SEO requirements",
+            "Migrated websites to new production server",
+            "Responsive web development (HTML5, CSS3, Sass, Silverstripe, Wordpress)",
+            "Single landing page development",
+            "Data driven website design from heat map and Google Analytics",
+            "Responsive design mock-ups using Photoshop and Illustrator (for icons and logos)"
+        ]
+    },
+    {
+        "title": "Architectural Designer",
+        "company": "Contract",
+        "location": "Wellington, New Zealand",
+        "startDate": "February 2010",
+        "endDate": "March 2014",
+        "experience": [
+            "Specialised in commercial fitout with clients such as retail stores and restaurants",
+            "Produced construction drawings, shop drawings, specifications and accessibility report",
+            "Produced 3D concept design",
+            "Influenced difficult stakeholders on key decisions and ensures timely project delivery",
+            "Project managed builders, electricians, painters and plumbers"
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+header {
+    @include breakpoint(mobile) {
+        position: fixed;
+        width: 100%;
+    }
+}

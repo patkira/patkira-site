@@ -1,0 +1,42 @@
+[
+    {
+        "basics": {
+            "firstname": "Pat",
+            "lastname": "Kira",
+            "label": "Developer",
+            "email": "pat@pat-kira.com",
+            "phone": "0410 153 647",
+            "summary": "I am a creative person with a passion for designing and building great things. My architecture background and a good eye for design details constantly pushes my technical abilities in development. I can take on complex problems to achieve the desired design outcome. My ability to bridge design, technology and business requirements is my strong suite and I believe that this is a rare and valuable skill set to have in any team."
+        }
+    },
+    {
+        "social": [
+            {
+                "network": "GitHub",
+                "username": "patkira",
+                "url": "https://github.com/patkira"
+            },
+            {
+                "network": "Twitter",
+                "username": "@PatNKira",
+                "url": "https://twitter.com/PatNKira"
+            }
+        ]
+    },
+    {
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "SASS",
+            "PHP",
+            "Laravel",
+            "JavaScript",
+            "jQuery",
+            "Vue",
+            "React (tiny bit)",
+            "Gulp",
+            "Git",
+            "Photoshop"
+        ]
+    }
+]
